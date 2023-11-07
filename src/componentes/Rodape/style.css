@@ -57,3 +57,13 @@ footer {
 .copyright span {
     color: #fcc520;
 }
+
+@media screen and (max-width: 600px) {
+    .paragrafo {
+        font-size: 15px;
+    }
+
+    .iconesRodape img {
+        width: 35px;
+    }
+}

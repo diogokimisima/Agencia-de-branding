@@ -55,7 +55,25 @@
     width: 0;
   }
 
+  #secaoBanner {
+    height: 500px;
+  }
   .texto-secaoBanner {
     width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .texto-secaoBanner p {
+    font-size: 12px;
+  }
+  
+  .texto-secaoBanner h2 {
+    font-size: 40px;
+    
+  }
+  .texto-secaoBanner span {
+    font-size: 40px;
+  
   }
 }
