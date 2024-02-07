@@ -1,7 +1,7 @@
 <h1 align="center">Portifolio profissional</h1>
 
 > 🔎 Projeto com uma página principal <br>
-🗔 Confira a aplicação: https://pastelaria-kina.vercel.app <br>
+🗔 Confira a aplicação: https://agencia-de-branding-lac.vercel.app <br>
 ## :page_facing_up: Explicação
 
 Esse site da agencia foi um dos meus primeiro projeto de treino com o ReactJs, é um site moderno e responsivo, criado com um botao de tema escuro e claro.
@@ -45,6 +45,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/diogokimisima/Pastelaria-Kina/blob/main/LICENSE">LICENSE</a> para obter mais detalhes.
+Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/diogokimisima/Agencia-de-branding/blob/main/LICENSE">LICENSE</a> para obter mais detalhes.
 
 <a href="#top">Volte para o topo</a>
